@@ -4,7 +4,7 @@
 const text = document.querySelector(".text");
 const cursor = document.querySelector(".cursor");
 
-const textMsg = ["Web Developer", "Game Developer🎮"];
+const textMsg = ["Web Developer", "Game Developer🎮" , "Programmer"];
 
 const typingDelay = 200;
 const erasingDelay = 100;
